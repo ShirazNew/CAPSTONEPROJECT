@@ -22,8 +22,8 @@ public class Base {
 	public static WebDriver driver;
 	public static Properties properties;
 	public static Logger logger;
-	private String projectPropertyFilePath = ".\\src\\test\\resources\\InputData\\projectProp.properties";
-	private String log4JFilePath = ".\\src\\test\\resources\\InputData\\log4j.properties";
+	private String projectPropertyFilePath = "/Users/macpro19/git/tekSchoolProject/FrameworkCodes/src/test/resources/InputData/projectProp.properties";
+	private String log4JFilePath = "/Users/macpro19/git/tekSchoolProject/FrameworkCodes/src/test/resources/InputData/log4j.properties";
 
 	public Base() {
 
